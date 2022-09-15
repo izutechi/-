@@ -34,7 +34,7 @@ main {
   background-size: cover;
 }
 
-@media screen and (max-width: 7px) {
+@media screen and (max-width: 768px) {
   header {
     width: 100%;
   }
@@ -130,3 +130,4 @@ main {
 
 footer {
   height: 50px;
+}
